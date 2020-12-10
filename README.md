@@ -1,5 +1,7 @@
 # vps-setup-ssh-zsh-pretty
 
+Based on [vps-setup-ssh-zsh-pretty](https://github.com/actuallymentor/vps-setup-ssh-zsh-pretty) by [Mentor Palokaj](https://github.com/actuallymentor)
+
 Setup script to set up VPS servers the way I like them.
 
 I advise adding your own SSH key into the script. Use this verbatim and you'll be giving me control of your servers.
